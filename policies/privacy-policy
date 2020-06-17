@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<!-- saved from url=(0048)https://localhost/koto.com/policies/privacy-policy -->
+<html lang="en" class="">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
+	<link rel="canonical" href="https://localhost/koto.com/customer-care/privacy-policy">
+	<link rel="shortcut icon" href="https://localhost/koto.com/images/ico.jpg" type="image/png">
+	<title>Privacy-policy | KOTO </title>
+	<meta name="description" content="Contact">
+	<link type="text/css" href="https://localhost/koto.com/css/layout.theme.css" rel="stylesheet">
+	<script async="" src="https://localhost/koto.com/js/analytics.js.download"></script>
+	<script src="https://localhost/koto.com/js/1400546596788623" async=""></script>
+	<script async="" src="https://localhost/koto.com/js/fbevents.js.download"></script>
+	<script type="text/javascript" src="https://localhost/koto.com/js/layout.theme.js.download" defer="defer"></script>
+	<script type="text/javascript">
+    document.documentElement.className = document.documentElement.className.replace('no-js', '');
+
+    window.theme = {
+      strings: {
+        contactSuccess: "Your message has been sent. Please check your inbox for confirmation email detailing our receipt of your query. If this does not arrive soon check your spam folder.",
+        contactError: "We're sorry. Something went wrong and we couldn't send your message. Please try again or contact us directly via \u003ca href=\"mailto:help@a-cold-wall.com\"\u003ehelp@a-cold-wall.com\u003c\/a\u003e.",
+        newsletterConfirmation: "\u003cp\u003eThank you, $email_address is subscribed.\u003c\/p\u003e",
+        subtotal: "Subtotal:",
+        estimatedShipping: "Estimated shipping:",
+        total: "Total:",
+        complimentary_shipping: "Your order is eligible for complimentary shipping",
+      }
+    };
+	</script>
+	<script type="text/javascript" src="chrome-extension://flfnfojnbchmpkapielimhjblcmjlloh/inject.js"></script>
+	<input type="hidden" id="def_store_currency" value="ZAR">
+</head>
+
+<body class="page antialiased" style="font-family:sans-serif; font-size:12px;line-height:1.5;">
+
+  <div class="wrapper">
+    <div id="shopify-section-header" class="shopify-section"><section data-section-id="header" data-section-type="header">
+  <header class="header" role="banner" style="top: 64px;">
+    <div class="container-fluid flex items-center">
+      <nav class="w-1/3 flex justify-start">
+        <a href="https://localhost/koto.com/customer-care/contact#" class="lg:hidden block text-base p-3 -ml-3" data-toggle-nav-pane="">
+          <i class="icon icon-menu text-lg block"></i>
+        </a>
+        <div class="hidden lg:flex">
+          <ul class="nav nav-horizontal">
+            <li>
+              <a href="https://localhost/koto.com/customer-care/contact#">Shop</a>
+			  <ul class="nav-vertical">
+				<li><a href="https://localhost/koto.com/collections/jersey">Jersey &amp; Sweats</a></li>
+				<li><a href="https://localhost/koto.com/collections/bags-leather-goods">Bags &amp; Leather Goods</a></li>
+				<li><a href="https://localhost/koto.com/collections/footwear">Footwear</a></li>
+				<li><a href="https://localhost/koto.com/collections/knitwear">Knitwear</a></li>
+				<li><a href="https://localhost/koto.com/collections/shirting">Shirting</a></li>
+				<li><a href="https://localhost/koto.com/collections/legwear">Legwear</a></li>
+				<li><a href="https://localhost/koto.com/collections/outerwear">Outerwear</a></li>
+				<li><a href="https://localhost/koto.com/collections/suiting">Suiting</a></li>
+				<li><a href="https://localhost/koto.com/collections/a-cold-wall-retrosuperfuture">RETROSUPERFUTURE</a></li>
+				<li><a href="https://localhost/koto.com/collections/new-arrivals">Shop all</a></li>
+			   </ul>
+			</li>
+            <li><a href="https://localhost/koto.com/pages/read">Read</a></li>
+            <li><a href="https://localhost/manner.nl/pages/koto-showcase" target="_blank">Exhibition 1</a></li>
+          </ul>
+        </div>
+      </nav>
+      <div class="w-1/3 flex justify-center">
+        <h1 class="logo block">
+          <a href="https://localhost/koto.com" class="lg:h-5 flex items-center">
+            <img src="https://localhost/koto.com/images/logotype.png" class="block" title="KOTO" style="height:25px;">
+          </a>
+        </h1>
+      </div>
+      <nav class="w-1/3 flex justify-end">
+        <a href="https://localhost/koto.com/webstore/cart" class="lg:hidden block p-3 -mr-3">
+          <i class="icon icon-elipsis text-lg block"></i>
+        </a>
+        <div class="hidden lg:flex">
+          <ul class="nav nav-horizontal">
+            <li>
+              <form class="search-form" action="https://localhost/koto.com/webstore/search" method="get" role="search">
+                <input type="search" name="q" id="search-field" required="" autocomplete="off">
+                <label for="search-field" class="search-form-field">Search</label>
+              </form>
+            </li>
+            <li><a href="https://localhost/koto.com/webstore/account">Account</a></li>
+            <li><a href="https://localhost/koto.com/webstore/cart">Bag (0)</a></li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+  </header>
+	<span class="header-push">	
+	<div  class="flex container-fluid mt-6">
+		<aside  class="w-48 hidden lg:block">
+			<ul class="nav nav-vertical fixed" style="top: 128px;">
+					<br><br><br><br><br><br><br><br><br><br><br><br><br>
+					<li><a href="https://localhost/koto.com/customer-care/contact" style="color:#000;">Contact</a></li>      
+					<li><a href="https://localhost/koto.com/customer-care/shipping" style="color:#000;">Shipping</a></li>      
+					<li><a href="https://localhost/koto.com/customer-care/returns"style="color:#000;">Returns</a></li>      
+					<li><a href="https://localhost/koto.com/customer-care/payments" style="color:#000;">Payments</a></li>      
+					<li><a href="https://localhost/koto.com/customer-care/sizing" style="color:#000;">Sizing</a></li>
+			</ul>
+		</aside>
+	</div></span>
+</section>
+</div>
+    <div id="shopify-section-navigation" class="shopify-section"><section data-section-id="navigation" data-section-type="navigation">
+  <nav class="nav-pane" data-nav-pane="" style="top: 64px;">
+    <div class="overflow-auto absolute inset-0 py-6 px-4">
+      <div class="min-h-full w-full flex flex-col justify-between">
+        <ul class="primary w-full">
+				<li><a href="https://localhost/koto.com/collections/jersey">Jersey &amp; Sweats</a></li>
+				<li><a href="https://localhost/koto.com/collections/bags-leather-goods">Bags &amp; Leather Goods</a></li>
+				<li><a href="https://localhost/koto.com/collections/footwear">Footwear</a></li>
+				<li><a href="https://localhost/koto.com/collections/knitwear">Knitwear</a></li>
+				<li><a href="https://localhost/koto.com/collections/shirting">Shirting</a></li>
+				<li><a href="https://localhost/koto.com/collections/legwear">Legwear</a></li>
+				<li><a href="https://localhost/koto.com/collections/outerwear">Outerwear</a></li>
+				<li><a href="https://localhost/koto.com/collections/suiting">Suiting</a></li>
+				<li><a href="https://localhost/koto.com/collections/a-cold-wall-retrosuperfuture">RETROSUPERFUTURE</a></li>
+				<li><a href="https://localhost/koto.com/collections/new-arrivals">Shop all</a></li>
+		</ul>
+        <ul class="secondary w-full mt-8">
+			<li><a href="https://localhost/koto.com/pages/read">Read</a></li>
+            <li><a href="https://localhost/manner.nl/pages/koto-showcase" target="_blank">Exhibition 1</a></li>
+			<li><a href="https://localhost/koto.com/customer-care/contact">Assistance</a></li>
+			<li><a href="https://localhost/koto.com/customer-care/newsletter">Newsletter</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</section>
+</div>
+    <main>
+	
+	   <!-- push-back spacing in header--->
+		<img src="https://localhost/koto.com/images/white.jpg" style="height: 15px;">
+		<img src="https://localhost/koto.com/images/strapped.jpg" style="height: 2px;">
+		<img src="https://localhost/koto.com/images/white.jpg" style="height: 50px;">
+		<!-- push-back spacing in header --->
+	
+     <div class="container-fluid mt-6">
+			
+		<div class="flex">
+		<aside class="hidden lg:block w-48">
+			<nav class="nav nav-vertical">
+
+			</nav>
+		</aside>	
+    <div class="w-full max-w-xl mx-auto rte" >
+			<div style="text-align:center;">
+				<br>
+				<h1>PRIVACY POLICY</h1>
+				<br><br>
+			</div>
+		<p>Your privacy is of great importance to us and we handle and protect your data accordingly. Below, we have outlined all the ways we use your information and why it is necessary to do so. We value your security as much as we value your custom and are fully committed to preserving your privacy.</p>
+		<p>If you have any questions regarding how we use your data and the steps we take to protect your privacy, please send your query to <a href="mailto:data-protection@a-cold-wall.com" style="color: #337ab7;">data-protection@a-cold-wall.com</a> and we will be happy to help you.</p>
+		<h5>How your information is used</h5>
+		<p>The details you provide to us are used in several ways – some not as obvious as others. We have separated each specific detail you supply to us and the ways in which they are used.</p>
+		<h5><b>NAME AND CONTACT DETAILS</b></h5>
+		<p>We will ask for your name, phone number and e-mail address for a multitude of reasons. This information allows us to:</p>
+	<ul>
+		<li>Ensure delivery of purchase is directed to the right person.</li>
+		<li>Inform you of order details, delays and all other such important notices and updates via SMS or e-mail.</li>
+		<li>Keep you up to date on new products, services and projects via e-mail. We will only send you marketing material with your consent and you are within your right to rescind consent at any time.</li>
+		<li>Detect and prevent fraud enacted against either yourself or A-COLD-WALL*.</li>
+		<li>Send location-relevant marketing material.</li>
+	</ul>
+		<h5><b>GENDER INFORMATION</b></h5>
+		<p>Your gender is relevant because it allows us to:</p>
+	<ul>
+		<li>Efficiently direct you to the correct part of our website (menswear/womenswear).</li>
+		<li>Send your marketing material that is gender-specific.</li>
+	</ul>
+		<h5><b>PAYMENT INFORMATION</b></h5>
+		<p>This information is collected during payment transactions. It allows us to:</p>
+	<ul>
+		<li>Process payment for items bought.</li>
+		<li>Process refunds for returns.</li>
+		<li>Detect and prevent fraud enacted against either yourself or A-COLD-WALL*.</li>
+		<li>Optionally store payment information to the user’s account for a faster checkout.</li>
+	</ul>
+		<h5><b>RECORDING OF CONTACT HISTORY</b></h5>
+		<p>Phone calls and e-mail correspondence may be recorded and saved. This allows us to:</p>
+	<ul>
+		<li>Efficiently deal with your query (if further contact is required) and provide better customer service.</li>
+		<li>Train our staff so that our customer support is constantly improving.</li>
+	</ul>
+		<h5><b>PURCHASE HISTORY/SAVED ITEMS</b></h5>
+		<p>When you add an item to your basket, our website retains your section so we can:</p>
+	<ul>
+		<li>Process orders once items are added to basket.</li>
+		<li>Handle returns and provide better customer service.</li>
+	</ul>
+		<h5><b>INFORMATION ABOUT YOUR DEVICE AND HOW YOU USE OUR WEBSITE</b></h5>
+		<p>When you use our website, your IP address and device type are noted. This information is useful to us because it allows us to:</p>
+	<ul>
+		<li>Set default options specific to you (such as language, currency and item availability).</li>
+		<li>Detect and prevent fraud enacted against either yourself or A-COLD-WALL*.</li>
+	</ul>
+		<h5>Sharing your information</h5>
+		<p>Our relationship with our customers is paramount. That you have entrusted us with your information and support what we do at A-COLD-WALL* instils in us a duty to be transparent with how we use your data. <strong>We will never</strong> sell any of your personal data to third parties. This includes your name, address, e-mail address and credit card information.</p>
+		<p>There are, however, instances whereby your data is crucial to providing a good standard of customer service and improving the experience of all involved – namely, yourself and A-COLD-WALL*. We may share your information with:</p>
+	<ul>
+		<li>Payment service providers, order packers, warehouses and delivery companies. These are the companies that deal with the delivery of your goods. Certain information (name, address etc.) is necessary to share in order to get your items to you.</li>
+		<li>Marketing agencies, advertising partners and website hosts. These professional service providers help with the business side of A-COLD-WALL*.</li>
+		<li>Credit reference agencies, law enforcement ad fraud prevention agencies. These are the entities that prevent and tackle fraud.</li>
+	</ul>
+		<p>We may share anonymous information with third parties but this is for the purposes of analytics and figures. We make sure none of this data can be used to identify you.</p>
+		<h5>Marketing messages</h5>
+		<p>If you allow us to, we will keep you updated on A-COLD-WALL* products and news via e-mail or text. This service ensures you are kept aware of the latest projects at A-COLD-WALL*.</p>
+		<p>You can put a stop to marketing updates from A-COLD-WALL* at any time by:</p>
+	<ul>
+		<li>Clicking on the unsubscribe link at the bottom of any e-mail from us.</li>
+		<li>Contacting our customer service team at <a href="mailto:data-protection@a-cold-wall.com" style="color: #337ab7;">data-protection@a-cold-wall.com</a>.</li>
+	</ul>
+		<p>If you opt-out of marketing messages through any of the above methods, we will ensure your settings are updated with immediate effect. However, due to the complex nature of our services and the volume of messages we receive, the update may take a few days to complete. This means that you may receive a few more marketing updates as we process the change to your account. Please allow some time for the changes to take effect before contacting us again.</p>
+		<p>Preventing marketing messages will not stop vital service communications – order updates etc.</p>
+		<h5>Online advertising</h5>
+		<p>As with other retailers, we tailor advertisement based on you’re A-COLD-WALL* website search history, site content you peruse and A-COLD-WALL* banners or ads you have clicked on in the past. We use a multitude of digital marketing networks and ad exchanges to target A-COLD-WALL* banners and advertisements to you when you are browsing other websites or apps. Ad technologies used include: cookies (more information on that below), ad tags, pixels, web beacons and mobile identifiers. Services offered by social network sites such as Facebook or Instagram are also implemented for the purposes of specified advertising.</p>
+		<h5>Your information outside the EU</h5>
+		<p>Some of the important services we use have their servers located in the USA. Although the USA is not bound by European Commission’s standard data protection clauses, we protect your privacy and your rights by implementing the European Commission’s standard data protection clauses.</p>
+		<p>You can find detailed information about this and the surrounding laws here: <a href="http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32010D0087" style="color: #337ab7;" target="_blank" rel="noopener noreferrer">http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32010D0087</a>.</p>
+		<h5>Holding onto your data</h5>
+		<p>We can only retain your information while you are an A-COLD-WALL* customer. You are within your rights to request us to delete all of your personal data we have stored. Contact our customer service team at <a href="mailto:data-protection@a-cold-wall.com" style="color: #337ab7;" >data-protection@a-cold-wall.com</a> in order to do so.</p>
+		<p>There may be circumstances in which we keep hold of some of your information, even after you close you’re A-COLD-WALL* account or it is no longer required to provide specific services to you. These include: prevention of fraud and abuse; enforcement of our Terms &amp; Conditions; solving disputes; or other such legal of regulatory requirements.</p>
+		<h5>Your rights</h5>
+		<p>You have certain rights pertaining to your personal data. It is important to be aware of them to reduce risk to your privacy or abuse of trust with all companies. You have:</p>
+	<ul>
+		<li>The right to be clearly informed about how your personal data is being used.</li>
+		<li>The right to unobstructed, transparent access to all personal data being held that pertains to you.</li>
+		<li>The right to request amendment of any inaccurate personal information held about you.</li>
+		<li>The right to request that any company that holds your personal information delete it or stop collecting it.</li>
+		<li>The right to halt direct marketing updates and messages (see above).</li>
+		<li>The right to request that any company that holds your personal information transfer elements of your data to another service provider.</li>
+		<li>The right to complain to your data protection regulator (the Information Commissioner’s Office in the UK).</li>
+	</ul>
+		<h5>Notification of changes to privacy protection methods</h5>
+		<p>There are times where we might alter our methods of processing and protecting your personal information. For any significant changes, we will ensure you are clearly notified via one of the means of contact we have for you. You will have a chance to review the changes before you continue to use A-COLD-WALL*.</p>
+		<h5>Cookies</h5>
+		<p>We use cookies when anyone browses our website. Please refer to our <a href="http://www.a-cold-wall.com/cookies/" style="color: #337ab7;">section on cookies</a> for a full explanation as to how they work and how we use them at A-COLD-WALL*.</p>
+		<h5>Contact us</h5>
+		<p>If you have any questions regarding your privacy, would like us to stop using your data, or have any queries regarding this notice, please do not hesitate to get in contact with us.</p>
+		<p>All matters regarding data can be taken up with our team at <a href="mailto:data-protection@a-cold-wall.com">data-protection@a-cold-wall.com</a>.</p>
+		<p>Last updated: 4th June 2020</p>
+	</div>
+    <span class="hidden lg:block w-48"></span>
+  </div>
+</div>
+
+  </main>
+  </div>
+  
+  <div>
+    <div id="shopify-section-footer" class="shopify-section"><footer class="footer">
+  <div class="container-fluid pt-24 md:pt-32 pb-8 xl:flex xl:justify-between">
+    <div class="hidden mb-8 md:flex md:flex-wrap xl:mb-0 xl:order-1 xl:self-end">
+      <ul class="nav nav-horizontal flex flex-wrap">
+        <li>
+          <a href="https://instagram.com/koto" target="_blank" style="display: block !important;">
+            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram" class="svg-inline--fa fa-instagram fa-w-14" role="img" viewBox="0 0 448 512" height="12"><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>
+
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/koto" target="_blank" style="display: block !important;">
+            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" class="svg-inline--fa fa-twitter fa-w-16" role="img" viewBox="0 0 512 512" height="12"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>
+
+          </a>
+        </li>
+        <li>
+          <a href="https://facebook.com/koto" target="_blank" style="display: block !important;">
+            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook-square" class="svg-inline--fa fa-facebook-square fa-w-14" role="img" viewBox="0 0 448 512" height="12"><path fill="currentColor" d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"></path></svg>
+
+          </a>
+        </li><li><a href="https://localhost/koto.com/customer-care/newsletter">Newsletter</a></li>
+		<li><a href="https://localhost/koto.com/customer-care/contact">Customer Assistance</a></li>
+		<li><a href="https://localhost/koto.com/policies/terms-of-service">Terms of Service</a></li>
+		<li><a href="https://localhost/koto.com/policies/privacy-policy"  style="background-color:#000;color:#fff;" >Privacy Policy</a></li></ul>
+    </div>
+    <div class="max-w-xl rte xl:order-0">
+      <p>All contents of this website are the property of <span class="whitespace-no-wrap">KOTO by Ntebele Letsie</span>. No part of this site, including all text and images, may be reproduced in any form without the prior written consent of <span class="whitespace-no-wrap">KOTO</span>.</p><p>Copyright © 2020. All Rights Reserved.</p>
+    </div>
+  </div>
+</footer>
+</div>
+    
+  </div>
+
+
+<div id="mfa_inject_cartdata" hidden="hidden"></div><div id="mfa_inject" hidden="hidden">acoldwall.myshopify.com</div>
+<iframe src="https://localhost/koto.com/js/popover.html" style="position:fixed;top:0px;left:0px;z-index:100000000000000;width:100%;height:0px;border:none;display:block !important;min-height:64px;opacity:1;" id="MFA_frame"></iframe>
+</body>
+</html>

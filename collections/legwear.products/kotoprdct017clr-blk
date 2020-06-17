@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!-- saved from url=(0048)https://localhost/koto.com/collections/new-arrivals.products/kotoprdct001clr-blk -->
+<html lang="en" class="">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
+	<link rel="canonical" href="https://localhost/koto.com/customer-care/contact">
+	<link rel="shortcut icon" href="https://localhost/koto.com/images/ico.jpg" type="image/png">
+	<title>Contact | KOTO </title>
+	<meta name="description" content="Contact">
+	<link type="text/css" href="https://localhost/koto.com/css/layout.theme.css" rel="stylesheet">
+	<script async="" src="https://localhost/koto.com/js/analytics.js.download"></script>
+	<script src="https://localhost/koto.com/js/1400546596788623" async=""></script>
+	<script async="" src="https://localhost/koto.com/js/fbevents.js.download"></script>
+	<script type="text/javascript" src="https://localhost/koto.com/js/layout.theme.js.download" defer="defer"></script>
+	<script type="text/javascript">
+    document.documentElement.className = document.documentElement.className.replace('no-js', '');
+
+    window.theme = {
+      strings: {
+        contactSuccess: "Your message has been sent. Please check your inbox for confirmation email detailing our receipt of your query. If this does not arrive soon check your spam folder.",
+        contactError: "We're sorry. Something went wrong and we couldn't send your message. Please try again or contact us directly via \u003ca href=\"mailto:help@a-cold-wall.com\"\u003ehelp@a-cold-wall.com\u003c\/a\u003e.",
+        newsletterConfirmation: "\u003cp\u003eThank you, $email_address is subscribed.\u003c\/p\u003e",
+        subtotal: "Subtotal:",
+        estimatedShipping: "Estimated shipping:",
+        total: "Total:",
+        complimentary_shipping: "Your order is eligible for complimentary shipping",
+      }
+    };
+	</script>
+	<script type="text/javascript" src="chrome-extension://flfnfojnbchmpkapielimhjblcmjlloh/inject.js"></script>
+	<input type="hidden" id="def_store_currency" value="ZAR">
+</head>
+

@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en" class="">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
+	<link rel="canonical" href="https://localhost/koto.com/customer-care/shipping">
+	<link rel="shortcut icon" href="https://localhost/koto.com/images/ico.jpg" type="image/png">
+	<title>Shipping | KOTO </title>
+	<meta name="description" content="Contact">
+	<link type="text/css" href="https://localhost/koto.com/css/layout.theme.css" rel="stylesheet">
+	<script async="" src="https://localhost/koto.com/js/analytics.js.download"></script>
+	<script src="https://localhost/koto.com/js/1400546596788623" async=""></script>
+	<script async="" src="https://localhost/koto.com/js/fbevents.js.download"></script>
+	<script type="text/javascript" src="https://localhost/koto.com/js/layout.theme.js.download" defer="defer"></script>
+	<script type="text/javascript">
+    document.documentElement.className = document.documentElement.className.replace('no-js', '');
+
+    window.theme = {
+      strings: {
+        contactSuccess: "Your message has been sent. Please check your inbox for confirmation email detailing our receipt of your query. If this does not arrive soon check your spam folder.",
+        contactError: "We're sorry. Something went wrong and we couldn't send your message. Please try again or contact us directly via \u003ca href=\"mailto:help@a-cold-wall.com\"\u003ehelp@a-cold-wall.com\u003c\/a\u003e.",
+        newsletterConfirmation: "\u003cp\u003eThank you, $email_address is subscribed.\u003c\/p\u003e",
+        subtotal: "Subtotal:",
+        estimatedShipping: "Estimated shipping:",
+        total: "Total:",
+        complimentary_shipping: "Your order is eligible for complimentary shipping",
+      }
+    };
+	</script>
+	<script type="text/javascript" src="chrome-extension://flfnfojnbchmpkapielimhjblcmjlloh/inject.js"></script>
+	<input type="hidden" id="def_store_currency" value="ZAR">
+</head>
+
+<body class="page antialiased" style="font-family:sans-serif; font-size:12px;line-height:1.5;">
+
+  <div class="wrapper">
+    <div id="shopify-section-header" class="shopify-section"><section data-section-id="header" data-section-type="header">
+  <header class="header" role="banner" style="top: 64px;">
+    <div class="container-fluid flex items-center">
+      <nav class="w-1/3 flex justify-start">
+        <a href="https://localhost/koto.com/customer-care/contact#" class="lg:hidden block text-base p-3 -ml-3" data-toggle-nav-pane="">
+          <i class="icon icon-menu text-lg block"></i>
+        </a>
+        <div class="hidden lg:flex">
+          <ul class="nav nav-horizontal">
+            <li>
+              <a href="https://localhost/koto.com/customer-care/contact#">Shop</a>
+			  <ul class="nav-vertical">
+				<li><a href="https://localhost/koto.com/collections/jersey">Jersey &amp; Sweats</a></li>
+				<li><a href="https://localhost/koto.com/collections/bags-leather-goods">Bags &amp; Leather Goods</a></li>
+				<li><a href="https://localhost/koto.com/collections/footwear">Footwear</a></li>
+				<li><a href="https://localhost/koto.com/collections/knitwear">Knitwear</a></li>
+				<li><a href="https://localhost/koto.com/collections/shirting">Shirting</a></li>
+				<li><a href="https://localhost/koto.com/collections/legwear">Legwear</a></li>
+				<li><a href="https://localhost/koto.com/collections/outerwear">Outerwear</a></li>
+				<li><a href="https://localhost/koto.com/collections/suiting">Suiting</a></li>
+				<li><a href="https://localhost/koto.com/collections/a-cold-wall-retrosuperfuture">RETROSUPERFUTURE</a></li>
+				<li><a href="https://localhost/koto.com/collections/new-arrivals">Shop all</a></li>
+			   </ul>
+			</li>
+            <li><a href="https://localhost/koto.com/pages/read">Read</a></li>
+            <li><a href="https://localhost/manner.nl/pages/koto-showcase" target="_blank">Exhibition 1</a></li>
+          </ul>
+        </div>
+      </nav>
+      <div class="w-1/3 flex justify-center">
+        <h1 class="logo block">
+          <a href="https://localhost/koto.com" class="lg:h-5 flex items-center">
+            <img src="https://localhost/koto.com/images/logotype.png" class="block" title="KOTO" style="height:25px;">
+          </a>
+        </h1>
+      </div>
+      <nav class="w-1/3 flex justify-end">
+        <a href="https://localhost/koto.com/webstore/cart" class="lg:hidden block p-3 -mr-3">
+          <i class="icon icon-elipsis text-lg block"></i>
+        </a>
+        <div class="hidden lg:flex">
+          <ul class="nav nav-horizontal">
+            <li>
+              <form class="search-form" action="https://localhost/koto.com/webstore/search" method="get" role="search">
+                <input type="search" name="q" id="search-field" required="" autocomplete="off">
+                <label for="search-field" class="search-form-field">Search</label>
+              </form>
+            </li>
+            <li><a href="https://localhost/koto.com/webstore/account">Account</a></li>
+            <li><a href="https://localhost/koto.com/webstore/cart">Bag (0)</a></li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+  </header>
+	<span class="header-push">	
+	<div  class="flex container-fluid mt-6">
+		<aside  class="w-48 hidden lg:block">
+			<ul class="nav nav-vertical fixed" style="top: 128px;">
+					<br><br><br><br><br><br><br><br><br><br><br><br><br>
+					<li><a href="https://localhost/koto.com/customer-care/contact" style="color:#000;">Contact</a></li>      
+					<li><a href="https://localhost/koto.com/customer-care/shipping" style="background-color:#000;color:#fff;" style="color:#000;">Shipping</a></li>      
+					<li><a href="https://localhost/koto.com/customer-care/returns" style="color:#000;">Returns</a></li>      
+					<li><a href="https://localhost/koto.com/customer-care/payments" style="color:#000;">Payments</a></li>      
+					<li><a href="https://localhost/koto.com/customer-care/sizing" style="color:#000;">Sizing</a></li>
+			</ul>
+		</aside>
+	</div></span>
+</section>
+</div>
+    <div id="shopify-section-navigation" class="shopify-section"><section data-section-id="navigation" data-section-type="navigation">
+  <nav class="nav-pane" data-nav-pane="" style="top: 64px;">
+    <div class="overflow-auto absolute inset-0 py-6 px-4">
+      <div class="min-h-full w-full flex flex-col justify-between">
+        <ul class="primary w-full">
+				<li><a href="https://localhost/koto.com/collections/jersey">Jersey &amp; Sweats</a></li>
+				<li><a href="https://localhost/koto.com/collections/bags-leather-goods">Bags &amp; Leather Goods</a></li>
+				<li><a href="https://localhost/koto.com/collections/footwear">Footwear</a></li>
+				<li><a href="https://localhost/koto.com/collections/knitwear">Knitwear</a></li>
+				<li><a href="https://localhost/koto.com/collections/shirting">Shirting</a></li>
+				<li><a href="https://localhost/koto.com/collections/legwear">Legwear</a></li>
+				<li><a href="https://localhost/koto.com/collections/outerwear">Outerwear</a></li>
+				<li><a href="https://localhost/koto.com/collections/suiting">Suiting</a></li>
+				<li><a href="https://localhost/koto.com/collections/a-cold-wall-retrosuperfuture">RETROSUPERFUTURE</a></li>
+				<li><a href="https://localhost/koto.com/collections/new-arrivals">Shop all</a></li>
+		</ul>
+        <ul class="secondary w-full mt-8">
+			<li><a href="https://localhost/koto.com/pages/read">Read</a></li>
+            <li><a href="https://localhost/manner.nl/pages/koto-showcase" target="_blank">Exhibition 1</a></li>
+			<li><a href="https://localhost/koto.com/customer-care/contact">Assistance</a></li>
+			<li><a href="https://localhost/koto.com/customer-care/newsletter">Newsletter</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</section>
+</div>
+    <main>
+		
+		<!-- push-back spacing in header--->
+		<img src="https://localhost/koto.com/images/white.jpg" style="height: 15px;">
+		<img src="https://localhost/koto.com/images/strapped.jpg" style="height: 2px;">
+		<img src="https://localhost/koto.com/images/white.jpg" style="height: 50px;">
+		<!-- push-back spacing in header --->
+		
+			<div class="container-fluid mt-6">
+				
+		<div class="w-full max-w-xl mx-auto rte">
+			<div class="flex-auto flex items-center justify-center py-4">
+				<div class="w-full rte">
+				
+				<h1 class="" style="text-align:center;">SHIPPING</h1>
+				<br>
+		<table class="mb-4" >
+          <tbody>
+            <tr><th>DESTINATION</th><th>TRANSIT TIME (DAYS)</th><th>COST</th></tr>
+            <tr><td>Lesotho</td><td>1-2</td><td>Free </td></tr>
+			<tr><td>South Africa</td><td>1-2</td><td>R10 </td></tr>
+			<tr><td>Rest of SADC Countries</td><td>1-2</td><td>R10 </td></tr>
+			<tr><td>Other African Countries</td><td>1-2</td><td>R10 </td></tr>
+			<tr><td>United Kingdom</td><td>1-2</td><td>R10 </td></tr>
+            <tr><td>United States</td><td>2-3</td><td>R20 </td></tr>
+            <tr><td>Canada</td><td>2-3</td><td>R20 </td></tr>
+            <tr><td>China</td><td>3-8</td><td>R25 </td></tr>
+            <tr><td>South Korea</td><td>3-5</td><td>R25 </td></tr>
+            <tr><td>Japan</td><td>3-4</td><td>R25 </td></tr>
+            <tr><td>Hong Kong</td><td>2-3</td><td>R25 </td></tr>
+            <tr><td>Singapore</td><td>2-3</td><td>R25 </td></tr>
+            <tr><td>Australia</td><td>3-5</td><td>R25 </td></tr>
+            <tr><td>Germany</td><td>2-3</td><td>R15 </td></tr>
+            <tr><td>France</td><td>2-3</td><td>R15 </td></tr>
+            <tr><td>Netherlands</td><td>2-3</td><td>R15 </td></tr>
+            <tr><td>Italy</td><td>2-3</td><td>R20 </td></tr>
+            <tr><td>Spain</td><td>2-3</td><td>R20 </td></tr>
+            <tr><td>Rest of Europe</td><td>3-5</td><td>R30 </td></tr>
+            <tr><td>Russia</td><td>2-3</td><td>R30 </td></tr>
+            <tr><td>Rest of World</td><td>3-10</td><td>R40</td></tr>
+          </tbody>
+        </table>
+        <div class="mt-4">
+          <h5 class="uppercase underlne inline-block">how long until my order is dispatched?</h5>
+          <p>We aim to process and ship all orders within 1-2 business days of purchase. This time is subject to change due to the nature of production and heavy order volumes.</p>
+          <h5 class="uppercase underlne inline-block">can i amend shipping information once have submitted my order?</h5>
+          <p>Once an order has been completed, we cannot change the shipping address - unless it is a simple adjustment to a spelling mistake. What we can do is withhold the stock (for a maximum of two weeks), cancel the order and allow you to purchase the item again. You can then refund your original order. The refund is instant if purchased with PayPal or Apple Pay and takes up to 10 days if bought on a credit/debit card.</p>
+          <h5 class="uppercase underlne inline-block">how can i track my order?</h5>
+          <p>As soon as your order is dispatched you will receive an email notification that will include relevant tracking information. If the service is available, some of our shipping partners will give you a one hour window in which your order will be delivered.</p>
+          <h5 class="uppercase underlne inline-block">non-eu customers shipping information</h5>
+          <p>Our shipments are DAP (delivery at place), meaning that it is your responsibility to pay any applicable import duties and charges on delivery. Import duties are charged once the delivery reaches its destination country. A-COLD-WALL* has no control over these charges, and cannot tell you what the charge would be, as customs policies vary from country-to-country. Please note that customers take full liability for all shipment costs and any eventual customs charges even if they refuse to accept a parcel due to high import duties or taxes.</p>
+        </div>
+      </div>
+    </div>
+    </div>
+						<span class="hidden lg:block w-48"></span>
+				</div>
+			</div>
+
+		</main>
+	 </div>
+  
+  <div>
+    <div id="shopify-section-footer" class="shopify-section"><footer class="footer">
+  <div class="container-fluid pt-24 md:pt-32 pb-8 xl:flex xl:justify-between">
+    <div class="hidden mb-8 md:flex md:flex-wrap xl:mb-0 xl:order-1 xl:self-end">
+      <ul class="nav nav-horizontal flex flex-wrap">
+        <li>
+          <a href="https://instagram.com/koto" target="_blank" style="display: block !important;">
+            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram" class="svg-inline--fa fa-instagram fa-w-14" role="img" viewBox="0 0 448 512" height="12"><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>
+
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/koto" target="_blank" style="display: block !important;">
+            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" class="svg-inline--fa fa-twitter fa-w-16" role="img" viewBox="0 0 512 512" height="12"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>
+
+          </a>
+        </li>
+        <li>
+          <a href="https://facebook.com/koto" target="_blank" style="display: block !important;">
+            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook-square" class="svg-inline--fa fa-facebook-square fa-w-14" role="img" viewBox="0 0 448 512" height="12"><path fill="currentColor" d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"></path></svg>
+
+          </a>
+        </li><li><a href="https://localhost/koto.com/customer-care/newsletter">Newsletter</a></li>
+		<li><a href="https://localhost/koto.com/customer-care/contact">Customer Assistance</a></li>
+		<li><a href="https://localhost/koto.com/policies/terms-of-service">Terms of Service</a></li>
+		<li><a href="https://localhost/koto.com/policies/privacy-policy">Privacy Policy</a></li></ul>
+    </div>
+    <div class="max-w-xl rte xl:order-0">
+      <p>All contents of this website are the property of <span class="whitespace-no-wrap">KOTO by Ntebele Letsie</span>. No part of this site, including all text and images, may be reproduced in any form without the prior written consent of <span class="whitespace-no-wrap">KOTO</span>.</p><p>Copyright © 2020. All Rights Reserved.</p>
+    </div>
+  </div>
+</footer>
+</div>
+    
+  </div>
+
+
+<div id="mfa_inject_cartdata" hidden="hidden"></div><div id="mfa_inject" hidden="hidden">acoldwall.myshopify.com</div>
+<iframe src="https://localhost/koto.com/js/popover.html" style="position:fixed;top:0px;left:0px;z-index:100000000000000;width:100%;height:0px;border:none;display:block !important;min-height:64px;opacity:1;" id="MFA_frame"></iframe>
+</body>
+</html>
